@@ -18,7 +18,7 @@ title: Subhrodip's Blog
 email: hello@subho.xyz
 description: Blog for Subhrodip Mohanta
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://subho.xyz/blog # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://subho.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Subhrodip Mohanta
   twitter: Subhrodip
